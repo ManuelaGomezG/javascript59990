@@ -46,7 +46,7 @@ Operadores de comparacion o relacionales
 
 //cuando es un umero entero se usa ParseInt pero si es con decimales sera ParseFloat
 
-//let edad = parent(prompt("porfavor ingresa tu edad para entrar al boliche"))
+//let edad = parseInt(prompt("porfavor ingresa tu edad para entrar al boliche"))
 
 /*
 mayor o menor q
